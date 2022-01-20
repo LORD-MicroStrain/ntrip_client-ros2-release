@@ -1,5 +1,9 @@
 ## ntrip_client (rolling) - 1.0.0-2
 
+## DEPRECATION NOTICE
+
+**IMPORTANT**: This repo has been replaced by the [ntrip_client-release](https://github.com/ros2-gbp/ntrip_client-release) repo in the [ros2-gbp](https://github.com/ros2-gbp) repo.
+
 The packages in the `ntrip_client` repository were released into the `rolling` distro by running `/home/microstrain/.local/bin/bloom-release --rosdistro rolling --track rolling ntrip_client --no-web` on `Wed, 22 Dec 2021 19:39:38 -0000`
 
 The `ntrip_client` package was released.
