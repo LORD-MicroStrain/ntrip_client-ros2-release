@@ -1,5 +1,9 @@
 # ROS NTRIP Client
 
+## DEPRECATION NOTICE
+
+**IMPORTANT**: This repo has been replaced by the [ntrip_client-release](https://github.com/ros2-gbp/ntrip_client-release) repo in the [ros2-gbp](https://github.com/ros2-gbp) repo.
+
 ## Description
 
 ROS node that will communicate with an NTRP server to receive RTCM connections and publish them on a ROS topic. Also works with virtual NTRIP servers by subscribing to NMEA
